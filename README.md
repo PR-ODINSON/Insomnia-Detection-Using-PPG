@@ -1,7 +1,7 @@
 # Insomnia Detection Using PPG
 
 ## Dataset Description
-The dataset used in this study is the **Cyclic Alternating Pattern (CAP) Sleep Database**, a publicly available resource containing polysomnography (PSG) recordings collected at the **Sleep Disorders Centre at Ospedale Maggiore in Parma, Italy**. The CAP dataset is hosted on Physionet and consists of **108 full-night PSG recordings**, featuring a range of physiological signals including EEG, EOG, EMG, ECG, and photoplethysmography (PPG). The dataset has been widely utilized for research in sleep disorders such as insomnia, nocturnal frontal lobe epilepsy, and REM behavior disorder!
+The dataset used in this study is the **Cyclic Alternating Pattern (CAP) Sleep Database**, a publicly available resource containing polysomnography (PSG) recordings collected at the **Sleep Disorders Centre at Ospedale Maggiore in Parma, Italy**. The CAP dataset is hosted on Physionet and consists of **108 full-night PSG recordings**, featuring a range of physiological signals including EEG, EOG, EMG, ECG, and photoplethysmography (PPG). The dataset has been widely utilized for research in sleep disorders such as insomnia, nocturnal frontal lobe epilepsy, and REM behavior disorder.
 
 ### Photoplethysmography (PPG) Data
 For this study, **PPG signals** from the CAP dataset were used to develop an insomnia detection model. PPG is a non-invasive optical measurement technique that detects changes in blood volume caused by heartbeats. Unlike traditional PSG, which requires a laboratory setup, PPG enables convenient, at-home sleep monitoring using wearable devices such as smartwatches and fitness trackers.
