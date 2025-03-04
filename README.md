@@ -58,5 +58,5 @@ The proposed deep learning models achieved high classification performance on th
 
 The **CNN-GRU model** outperformed the other models, effectively capturing both spatial and temporal features from PPG signals. The **Self-Attention model** provided enhanced interpretability but had slightly lower accuracy. The **1D-CNN baseline model** performed well but was less effective in modeling temporal dependencies.
 
-These results highlight the **potential of PPG-based insomnia detection as a viable alternative to PSG**, enabling **continuous, non-invasive sleep monitoring using wearable devices**!
+These results highlight the **potential of PPG-based insomnia detection as a viable alternative to PSG**, enabling **continuous, non-invasive sleep monitoring using wearable devices**.
 
